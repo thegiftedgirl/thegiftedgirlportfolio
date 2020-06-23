@@ -1,2 +1,2 @@
 
-document.getElementById('autoplay').play();
+document.getElementById('autoplay').play(onload);
