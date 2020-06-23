@@ -10,7 +10,10 @@ section {
     font-family: 'Josefin Sans', sans-serif;
     
  } 
-
+img{
+    width: 100;
+    height:auto;
+}
 
 
  .wrapper {
