@@ -25,8 +25,6 @@
  .video-wrap video {
      min-width: 100%;
      min-height: 100%; 
-     object-fit: contain; 
-    
  }
 
  .landing-text {
@@ -58,44 +56,4 @@ h3{
     padding: 2% 3%;
     border-radius: 5px;
 }
-/* * {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
-body {
-   
-}
-
-.intro {
-    height:100vh;
-}
-
-.intro video {
-    height: 100%;
-    width: 100%;
-    object-fit: none;
-  
-    
-}
-.intro h1 {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-    font-size: 90px;
-    color: white;
-
-}
-section {
-    height: 100vh;
-    color: black;
-}
-
-section h1 {
-    padding-top: 300px;
-    text-align: center;
-    font-size: 100px;
-} */
 
