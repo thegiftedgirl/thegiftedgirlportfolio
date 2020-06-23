@@ -3,12 +3,16 @@
       font-family: 'Josefin Sans', sans-serif;
 
  }
- section {
-     max-width: 57%;
+section {
+  
      margin: auto;
      text-align: center;
+    font-family: 'Josefin Sans', sans-serif;
     
- }
+ } 
+
+
+
  .wrapper {
     height: 100vh;
     display: flex;
@@ -57,14 +61,16 @@
 h1 {
     font-weight: 600;
     font-size: 300%;
+    font-family: 'Josefin Sans', sans-serif;
 }
 
 h3{
+    z-index: 2;
     font-size: 230%;
     font-weight: 400;
-    margin-top: -4%;
+    margin-top: 4%;
     padding-bottom: 3%;
-    color: #fff;
+    color: #000;
 }
 .btn {
     text-decoration: none;
@@ -76,5 +82,5 @@ h3{
 }
  p {
      color: black;
-     font-family: Anton;
+     font-family: anton;
  }
